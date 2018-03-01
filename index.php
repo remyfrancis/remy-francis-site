@@ -29,51 +29,18 @@
     <meta name="og:type" content="website">
     <title>Remy Francis Web Development Services</title>
     <!-- Font Awesome -->
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.6/css/all.css">
     <!-- Bootstrap core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <!-- Material Design Bootstrap -->
     <link href="css/mdb.min.css" rel="stylesheet">
-    <!-- Your custom styles (optional) -->
-    <link href="css/style.css" rel="stylesheet">
-
-    <style>
-
-        .top-nav-collapse {
-            background-color: #222222 !important; 
-        }
-        .navbar:not(.top-nav-collapse) {
-            background: transparent !important;
-        }
-        @media (max-width: 768px) {
-            .navbar:not(.top-nav-collapse) {
-                background: #222222 !important;
-            } 
-        }
-        .intro-1 {
-            height: 1050px;
-        }
-        @media (min-width: 770px) and (max-width: 1025px) {
-            .intro-1 {
-                height: 750px;
-            }
-        }
-        @media (max-width: 740px) {
-            .intro {
-                height: 600px;
-            }
-        }
-        footer.page-footer {
-        background-color: #1B1B1B;
-        }
-        
-    </style>
+    <!-- Homepage Styles -->
+    <link href="css/homepage-style.css" rel="stylesheet">
 </head>
 
 <body>
     <!--Main Navigation-->
-    <header>
-        
+    <header>    
         <!--Navbar-->
         <nav class="navbar navbar-expand-lg navbar-dark fixed-top scrolling-navbar">
             <div class="container">
@@ -98,13 +65,13 @@
                     </ul>
                     <ul class="navbar-nav nav-flex-icons">
                         <li class="nav-item">
-                            <a class="nav-link"><i class="fa fa-facebook"></i></a>
+                            <a class="nav-link"><i class="fab fa-facebook-f"></i></a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="https://twitter.com/RemTheDeveloper"><i class="fa fa-twitter"></i></a>
+                            <a class="nav-link" href="https://twitter.com/RemTheDeveloper"><i class="fab fa-twitter"></i></a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="https://www.instagram.com/remzthedeveloper/"><i class="fa fa-instagram"></i></a>
+                            <a class="nav-link" href="https://www.instagram.com/remzthedeveloper/"><i class="fab fa-instagram"></i></a>
                         </li>
                     </ul>
                 </div>
@@ -112,8 +79,8 @@
         </nav>
     
     </header>
-        <!--Main Navigation-->
 
+<!--Main Navigation-->
 <div class="view intro hm-black-slight jarallax" data-jarallax='{"speed": 0.2}' style="background-image: url('img/2.jpg'); ">
     <div class="full-bg-img">
         <div class="container">
@@ -204,7 +171,7 @@
 
             <!--Grid column-->
             <div class="col-md-4 mb-r">
-                <i class="fa fa-pencil-square-o orange-text"></i>
+                <i class="fas fa-pencil-alt fa-4x orange-text"></i>
                 <h5 class="feature-title">Web Design</h5>
                 <p class="grey-text"><a href="https://www.coursera.org/account/accomplishments/certificate/TDTF2LVJ2QMD">Front-End Web UI Frameworks and Tools</a></p>
                 <p class="grey-text"><a href="https://www.coursera.org/account/accomplishments/certificate/46V3V58U4YUM">HTML, CSS, JavaScript</a></p>
@@ -213,7 +180,7 @@
 
             <!--Grid column-->
             <div class="col-md-4 mb-r">
-                <i class="fa fa-file-code-o red-text"></i>
+                <i class="fas fa-file-code fa-4x red-text"></i>
                 <h5 class="feature-title">Web Development</h5>
                 <p class="grey-text"><a href="https://www.coursera.org/account/accomplishments/certificate/TTALPNLRUEMS">Front-End JavaScript Frameworks: AngularJS</a></p>
                 <p class="grey-text"><a href="https://www.coursera.org/account/accomplishments/certificate/8VGVLUDV5ASM">Server-side Development with NodeJS</a></p>
@@ -223,7 +190,7 @@
 
             <!--Grid column-->
             <div class="col-md-4 mb-r">
-                <i class="fa fa-mobile-phone cyan-text"></i>
+                <i class="fas fa-mobile-alt fa-4x cyan-text"></i>
                 <h5 class="feature-title">Mobile</h5>
                 <p class="grey-text"><a href="https://www.coursera.org/account/accomplishments/certificate/UNDKNLJUZ5TD">Multiplatform Mobile App Technologies with Web Technologies</a></p>
             </div>
@@ -236,7 +203,7 @@
         <div class="row features-big">
             <!--Grid column-->
             <div class="col align-self-center mb-r">
-                <i class="fa fa-book green-text"></i>
+                <i class="fa fa-book fa-2x green-text"></i>
                 <h5 class="feature-title">Building Complete Web Solutions</h5>
                 <p class="grey-text"><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/QL55EE4R3QEN">Full Stack Web Development</a></p>
             </div>
@@ -256,7 +223,7 @@
         <section class="section pb-2">
 
                 <!--Section heading-->
-                <h2 class="section-heading white-text h1">Want To Hire Me?</h2>
+                <h2 class="section-heading white-text h1">Get A Free Quote Now!</h2>
     
                 <!--Grid row-->
                 <div class="row">
@@ -271,7 +238,7 @@
                                     <div class="card-body form">
                                         <!--Header-->
                                         <div class="formHeader mb-1 pt-3">
-                                            <h3><i class="fa fa-envelope"></i> Write to me:</h3>
+                                            <h3><i class="fa fa-envelope"></i> Tell me what kind of website or app you're looking for:</h3>
                                         </div>
     
                                         <br>
@@ -359,7 +326,7 @@
                                                     <div class="md-form">
                                                         <textarea type="text" id="message" name="message" class="md-textarea"></textarea>
                                                         <label for="message">Your message</label>
-                                                        <button type="submit" class="btn-floating btn-lg blue" onclick="validateform()"><i class="fa fa-send-o"></i></button>
+                                                        <button type="submit" class="btn-floating btn-lg blue" onclick="validateform()"><i class="fas fa-paper-plane"></i></button>
                                                     </div>
                                                     <div class="status" id="status"></div>
     
@@ -397,9 +364,9 @@
                                             <hr class="hr-light mb-4 mt-4">
     
                                             <ul class="inline-ul text-center list-unstyled">
-                                                <li><a class="icons-sm tw-ic" href="https://twitter.com/RemTheDeveloper"><i class="fa fa-twitter"></i></a></li>
-                                                <li><a class="icons-sm li-ic" href="https://www.linkedin.com/in/francisremy/"><i class="fa fa-linkedin"> </i></a></li>
-                                                <li><a class="icons-sm ins-ic" href="https://www.instagram.com/remzthedeveloper/"><i class="fa fa-instagram"> </i></a></li>
+                                                <li><a class="icons-sm tw-ic" href="https://twitter.com/RemTheDeveloper"><i class="fab fa-twitter"></i></a></li>
+                                                <li><a class="icons-sm li-ic" href="https://www.linkedin.com/in/francisremy/"><i class="fab fa-linkedin-in"> </i></a></li>
+                                                <li><a class="icons-sm ins-ic" href="https://www.instagram.com/remzthedeveloper/"><i class="fab fa-instagram"> </i></a></li>
                                             </ul>
                                         </div>
                                     </div>
@@ -422,21 +389,17 @@
 
 <!--Footer-->
 <footer class="page-footer center-on-small-only mt-5">
-
     <div class="container">
         <!--Grid row-->
         <div class="row mb-3">
-
             <!--First column-->
             <div class="col-md-12">
-
                 <ul class="list-unstyled d-flex justify-content-center mb-0 py-4">
-                    <li><a class="icons-sm fb-ic"><i class="fa fa-facebook white-text fa-lg"> </i></a></li>
-                    <li><a class="icons-sm tw-ic" href="https://twitter.com/RemTheDeveloper"><i class="fa fa-twitter white-text fa-lg"> </i></a></li>
-                    <li><a class="icons-sm li-ic" href="https://www.linkedin.com/in/francisremy/"><i class="fa fa-linkedin white-text fa-lg"> </i></a></li>
-                    <li><a class="icons-sm ins-ic" href="https://www.instagram.com/remzthedeveloper/"><i class="fa fa-instagram white-text fa-lg"> </i></a></li>
+                    <li><a class="icons-sm fb-ic"><i class="fab fa-facebook-f white-text fa-lg"> </i></a></li>
+                    <li><a class="icons-sm tw-ic" href="https://twitter.com/RemTheDeveloper"><i class="fab fa-twitter white-text fa-lg"> </i></a></li>
+                    <li><a class="icons-sm li-ic" href="https://www.linkedin.com/in/francisremy/"><i class="fab fa-linkedin-in white-text fa-lg"> </i></a></li>
+                    <li><a class="icons-sm ins-ic" href="https://www.instagram.com/remzthedeveloper/"><i class="fab fa-instagram white-text fa-lg"> </i></a></li>
                 </ul>
-
             </div>
             <!--/First column-->
         </div>
@@ -469,40 +432,15 @@
     <!-- Form Validation -->
     <script>
         function validateForm() {
-    // var x =  document.getElementById('name').value;
-    // if (x == "") {
-    //     document.getElementById('status').innerHTML = "Name cannot be empty";
-    //     return false;
-    // }
-    // x =  document.getElementById('email').value;
-    // if (x == "") {
-    //     document.getElementById('status').innerHTML = "Email cannot be empty";
-    //     return false;
-    // } else {
-    //     var re = /^(([^<>()\[\]\\.,;:\s@"]+(\.[^<>()\[\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
-    //     if(!re.test(x)){
-    //         document.getElementById('status').innerHTML = "Email format invalid";
-    //         return false;
-    //     }
-    // }
-    // x =  document.getElementById('subject').value;
-    // if (x == "") {
-    //     document.getElementById('status').innerHTML = "Subject cannot be empty";
-    //     return false;
-    // }
-    // x =  document.getElementById('message').value;
-    // if (x == "") {
-    //     document.getElementById('status').innerHTML = "Message cannot be empty";
-    //     return false;
-    // }
- //get input field values data to be sent to server
-    document.getElementById('status').innerHTML = "Sending...";
-    formData = {
-        'name'     : $('input[name=name]').val(),
-        'email'    : $('input[name=email]').val(),
-        'subject'  : $('input[name=subject]').val(),
-        'message'  : $('textarea[name=message]').val()
-    };
+    
+            //get input field values data to be sent to server
+            document.getElementById('status').innerHTML = "Sending...";
+            formData = {
+                'name'     : $('input[name=name]').val(),
+                'email'    : $('input[name=email]').val(),
+                'subject'  : $('input[name=subject]').val(),
+                'message'  : $('textarea[name=message]').val()
+            };
 
 
             $.ajax({
@@ -511,7 +449,6 @@
             data : formData,
             success: function(data, textStatus, jqXHR)
             {
-
                 $('#status').text(data.message);
                 if (data.code) //If mail was sent successfully, reset the form.
                 $('#contact-form').closest('form').find("input[type=text], textarea").val("");
@@ -522,7 +459,7 @@
             }
             });
             document.getElementById('contact-form').submit();
-        
+                
         }
     </script>
 </body>
