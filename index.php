@@ -44,23 +44,23 @@
         <!--Navbar-->
         <nav class="navbar navbar-expand-lg navbar-dark fixed-top scrolling-navbar">
             <div class="container">
-                <a class="navbar-brand" href="index.php"><strong>RemzTheDeveloper</strong></a>
+                <a class="navbar-brand" href="index.php"><strong>RME Developments</strong></a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent-7" aria-controls="navbarSupportedContent-7" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
                 <div class="collapse navbar-collapse" id="navbarSupportedContent-7">
                     <ul class="navbar-nav mr-auto">
                         <li class="nav-item">
-                            <a class="nav-link" href="pages/portfolio.html">Projects</a>
+                            <a class="nav-link" href="portfolio.html">Projects</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="pages/services.html">Services</a>
+                            <a class="nav-link" href="services.html">Services</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="pages/about.html">About Me</a>
+                            <a class="nav-link" href="about.html">About Me</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="pages/contact.html">Contact</a>
+                            <a class="nav-link" href="contact.html">Contact</a>
                         </li>
                     </ul>
                     <ul class="navbar-nav nav-flex-icons">
@@ -88,9 +88,9 @@
                 <div class="row mt-5">
                     <div class="col-md-12 wow fadeIn mb-3">
                         <div class="intro-info-content text-center">
-                            <h1 class="display-1 mb-2 white-text wow animated fadeInDown" data-wow-delay="0.3s">REMY <a class="white-text font-bold">FRANCIS</a></h1>
+                            <h1 class="display-1 mb-2 white-text wow animated fadeInDown" data-wow-delay="0.3s">RME <br><span class="white-text font-bold">DEVELOPMENT</span></h1>
                             <h5 class="font-up mb-3 mt-1 white-text font-bold wow animated fadeInDown" data-wow-delay="0.4s">Web & Mobile Developer</h5>
-                            <h5 class="mb-3 mt-1 white-text font-bold wow animated fadeInDown" data-wow-delay="0.5s">I develop informational and small business websites, e-commerce websites, progressive web applications and hybrid mobile apps.</h5>
+                            <h5 class="mb-3 mt-1 white-text font-bold wow animated fadeInDown" data-wow-delay="0.5s">I develop quality responsive websites, progressive web applications and hybrid mobile apps.</h5>
                             <a class="btn btn-outline-white grey darken-4 btn-lg wow animated fadeInDown" data-wow-delay="0.6s" href="http://www.remyfrancis.com/pages/proposal.html">Ask For A Quote!</a> </div>
                     </div>
                 </div>
@@ -220,7 +220,7 @@
 <div class="view intro hm-pink-slight jarallax" data-jarallax='{"speed": 0.2}' style="background-image: url('img/contact.jpg');">
     <div class="full-bg-img">
         <!--Section: Contact v.3-->
-        <section class="section pb-2">
+        <section class="section pb-2 contactsection">
 
                 <!--Section heading-->
                 <h2 class="section-heading white-text h1">Get A Free Quote Now!</h2>
@@ -234,11 +234,11 @@
                         <!--Form with header-->
                         <div class="card">
                             <div class="row">
-                                <div class="col-lg-8">
+                                <div class="col-lg-12">
                                     <div class="card-body form">
                                         <!--Header-->
-                                        <div class="formHeader mb-1 pt-3">
-                                            <h3><i class="fa fa-envelope"></i> Tell me what kind of website or app you're looking for:</h3>
+                                        <div class="formHeader mb-1 pt-3 text-center">
+                                            <h3><i class="fa fa-envelope"></i> Tell Me About Your Business And Ideas. Let's Start Building That Solution</h3>
                                         </div>
     
                                         <br>
@@ -340,37 +340,30 @@
                                     </div>
                                 </div>
     
-                                <div class="col-lg-4">
+                                <!--<div class="col-lg-4">
                                     <div class="card-body contact text-center">
                                         <div class="container">
                                             <div class="mb-5">
-                                                <h3>Contact information</h3>
+                                                <h3 class="black-text">Contact Information</h3>
                                             </div>
     
                                             <ul class="contact-icons">
-                                                <li><i class="fa fa-map-marker"></i>
+                                                <li class="black-text py-4"><i class="fa fa-map-marker"></i>
                                                     <p>Corinth, Gros-Islet, St. Lucia</p>
                                                 </li>
     
-                                                <li><i class="fa fa-phone"></i>
+                                                <li class="black-text py-4"><i class="fa fa-phone"></i>
                                                     <p>+ 1 758 287 7459</p>
                                                 </li>
     
-                                                <li><i class="fa fa-envelope"></i>
+                                                <li class="black-text py-4"><i class="fa fa-envelope"></i>
                                                     <p>remy.e.francis@gmail.com</p>
                                                 </li>
                                             </ul>
     
-                                            <hr class="hr-light mb-4 mt-4">
-    
-                                            <ul class="inline-ul text-center list-unstyled">
-                                                <li><a class="icons-sm tw-ic" href="https://twitter.com/RemTheDeveloper"><i class="fab fa-twitter"></i></a></li>
-                                                <li><a class="icons-sm li-ic" href="https://www.linkedin.com/in/francisremy/"><i class="fab fa-linkedin-in"> </i></a></li>
-                                                <li><a class="icons-sm ins-ic" href="https://www.instagram.com/remzthedeveloper/"><i class="fab fa-instagram"> </i></a></li>
-                                            </ul>
                                         </div>
                                     </div>
-                                </div>
+                                </div>-->
                             </div>       
                         </div>
                         <!--/Form with header-->
@@ -399,6 +392,19 @@
                     <li><a class="icons-sm tw-ic" href="https://twitter.com/RemTheDeveloper"><i class="fab fa-twitter white-text fa-lg"> </i></a></li>
                     <li><a class="icons-sm li-ic" href="https://www.linkedin.com/in/francisremy/"><i class="fab fa-linkedin-in white-text fa-lg"> </i></a></li>
                     <li><a class="icons-sm ins-ic" href="https://www.instagram.com/remzthedeveloper/"><i class="fab fa-instagram white-text fa-lg"> </i></a></li>
+                </ul>
+            </div>
+            <!--/First column-->
+        </div>
+        <!--/Grid row-->
+        <!--Grid row-->
+        <div class="row mb-3">
+            <!--First column-->
+            <div class="col-md-12">
+                <ul class="list-unstyled d-flex justify-content-center mb-0 py-4">
+                    <li class="px-5"><i class="fa fa-map-marker fa-lg"></i> Corinth, Gros-Islet, St. Lucia</li>
+                    <li class="px-5"><a href="tel:+17582877459"><i class="fa fa-phone fa-lg"></i> +1-758-287-7459</a></li>
+                    <li class="px-5"><a href="mailto:remy.e.francis@gmail.com"><i class="fa fa-envelope fa-lg"></i> remy.e.francis@gmail.com</a></li>
                 </ul>
             </div>
             <!--/First column-->

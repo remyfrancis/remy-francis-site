@@ -1,13 +1,13 @@
 /* Your custom styles */
 .top-nav-collapse {
-    background-color: #222222 !important; 
+    background-color: #1C2331 !important; 
 }
 .navbar:not(.top-nav-collapse) {
     background: transparent !important;
 }
 @media (max-width: 768px) {
     .navbar:not(.top-nav-collapse) {
-        background: #222222 !important;
+        background: #1C2331 !important;
     } 
 }
 .intro-1 {
@@ -24,5 +24,11 @@
     }
 }
 footer.page-footer {
-background-color: #1B1B1B;
+background-color: #1C2331;
 }
+
+section .contact{
+    background-color:#fff;
+}
+
+
