@@ -31,4 +31,14 @@ section .contact{
     background-color:#fff;
 }
 
+a:hover{
+    color:#19cf86 !important;
+}
+
+darkthemepalette{
+    color:#141D26; /*darker*/ 
+    color: #1B2836; /*lighter*/
+    color: #19cf86; /*hyperlink*/
+}
+
 
