@@ -3,7 +3,7 @@
     background-color: #1C2331 !important; 
 }
 .navbar:not(.top-nav-collapse) {
-    background: transparent !important;
+    background: #1B2836 !important;
 }
 @media (max-width: 768px) {
     .navbar:not(.top-nav-collapse) {
@@ -39,6 +39,11 @@ darkthemepalette{
     color:#141D26; /*darker*/ 
     color: #1B2836; /*lighter*/
     color: #19cf86; /*hyperlink*/
+    color: #FF691F;
+    color: #FAB81E;
+    color: #1B95E0; 
+    color: #E81C4F;
+    color: #981CEB;
 }
 
 
