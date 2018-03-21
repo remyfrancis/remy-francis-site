@@ -26,7 +26,7 @@
     <meta name="og:url" content="http://remyfrancis.com">
     <meta name="og:site_name" content="Remy Francis Web Development Services">
     <meta name="og:type" content="website">
-    <title>Remy Francis Web Development Services</title>
+    <title>Quantum Web Services</title>
     <!-- Font Awesome -->
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.6/css/all.css">
     <!-- Bootstrap core CSS -->
@@ -35,6 +35,8 @@
     <link href="css/mdb.min.css" rel="stylesheet">
     <!-- Homepage Styles -->
     <link href="css/homepage-style.css" rel="stylesheet">
+    <!-- Font -->
+    <link rel="stylesheet" type="text/css" href="fonts/proxima-nova/fonts.min.css" />
 </head>
 
 <body>
@@ -86,10 +88,10 @@
             <div class="d-flex align-items-center d-flex justify-content-center" style="height: 850px">
                 <div class="row mt-5">
                     <div class="col-md-12 wow fadeIn mb-3">
-                        <div class="intro-info-content text-center">
-                            <h1 class="display-1 mb-2 white-text wow animated fadeInDown" data-wow-delay="0.3s">RME <br><span class="white-text font-bold">DEVELOPMENT</span></h1>
+                        <div class="intro-info-content">
+                            <h1 class="display-1 mb-2 white-text wow animated fadeInDown" data-wow-delay="0.3s"><span class="white-text font-bold">WE DELIVER ACCESSIBLE WEB PLATFORMS</span></h1>
                             <h5 class="font-up mb-3 mt-1 white-text font-bold wow animated fadeInDown" data-wow-delay="0.4s">Web & Mobile Developer</h5>
-                            <h5 class="mb-3 mt-1 white-text font-bold wow animated fadeInDown" data-wow-delay="0.5s">I develop quality responsive websites, progressive web applications and hybrid mobile apps.</h5>
+                            <h5 class="mb-3 mt-1 white-text font-bold wow animated fadeInDown" data-wow-delay="0.5s">Smart solutions for the digital age.</h5>
                             <a class="btn btn-outline-white grey darken-4 btn-lg wow animated fadeInDown" data-wow-delay="0.6s" href="http://www.remyfrancis.com/pages/proposal.html">Ask For A Quote!</a> </div>
                     </div>
                 </div>
