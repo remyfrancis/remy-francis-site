@@ -137,6 +137,8 @@
         </div>
         <!--Grid row-->
 
+    </section>
+
 
 </div>
 
