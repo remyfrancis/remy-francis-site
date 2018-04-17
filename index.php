@@ -108,7 +108,7 @@
     <section class="section extra-margins text-center text-lg-left">
 
         <!--Section heading-->
-        <h2 class="section-heading h1">About Me</h2>
+        <h2 class="section-heading h1">What Are Progressive Web Apps?</h2>
 
         <!--Grid row-->
         <div class="row">
@@ -117,7 +117,7 @@
             <div class="col-lg-4 mb-4">
                 <!--Featured image-->
                 <div class="view overlay hm-black-slight z-depth-1">
-                    <img src="img/remy.jpg" alt="Remy image">
+                    <img src="img/pwa.png" alt="Remy image">
                     <a>
                         <div class="mask"></div>
                     </a>
@@ -128,11 +128,8 @@
             <!--Grid column-->
             <div class="col-lg-7 mb-4">
                 <!--Excerpt-->
-                <h4 class="mb-4"><strong>I'm a freelance developer with 10 years of professional experience, based in St. Lucia.</strong></h4>
-                <p class="grey-text"><strong>I first dived into my web journey after graduating from Sir Arthur Lews Community College back in 2008, when I spent the entire summer after exams learning the HTML and CSS markup languages. I got my first job almost straight out of school working as an in-house Web Designer for a small Real Estate business by the name of Caribbean Real Estate.</strong></p> 
-                <p class="grey-text"><strong>After resigning in search of greener pastures in 2009, I started working as IT Tech and spent the next few years honing my web dev skills and building small websites for clients. In 2013 I launched my first personal large-scale web project "Island Wide News", a news satire site that had achieved immense local notoriety and some regional collaboration in the short few years that my team and I had kept it online.</strong></p>
-                <p class="grey-text"><strong>Most recently I've achieved certifications in Fullstack Web Development, adding server-side and mobile application development to my repertoire in the last couple of years.</strong></p>
-                <p class="grey-text"><strong>I love what I do and I look forward to working you!</strong></p>
+                <h4 class="mb-4"><strong>PWAs Are The Future Of Web</strong></h4>
+                <p class="grey-text"><strong>Progressive Web Apps (PWAs) are a new method of developing standard websites and web applications that provides mobile users with usability akin to a mobile application regardless of the medium used to access it. PWA is a standard heavily supported and promoted by Google and represents the next phase of the web, a perfect marriage between mobile apps and responsive websites.</strong></p> 
             </div>
             <!--Grid column-->
 
@@ -167,7 +164,7 @@
     <section class="section feature-box">
 
         <!--Section heading-->
-        <h1 class="section-heading h1">My Skills</h1>
+        <h1 class="section-heading h1">PWA Advantages Over Standard Websites</h1>
         <!--Section description-->
         <p class="section-description lead grey-text">My skillset ranges from website development to full-fledged web applications, hybrid mobile applications, and server-side support for both along with a database.</p>
 
@@ -175,31 +172,85 @@
         <div class="row features-big">
 
             <!--Grid column-->
-            <div class="col-md-4 mb-r">
-                <i class="fas fa-pencil-alt fa-4x orange-text"></i>
-                <h5 class="feature-title">Web Design</h5>
-                <p class="grey-text"><a href="https://www.coursera.org/account/accomplishments/certificate/TDTF2LVJ2QMD">Front-End Web UI Frameworks and Tools</a></p>
-                <p class="grey-text"><a href="https://www.coursera.org/account/accomplishments/certificate/46V3V58U4YUM">HTML, CSS, JavaScript</a></p>
+            <div class="col-md-6 mb-r">
+                <i class="fas fa-spinner fa-4x orange-text"></i>
+                <h5 class="feature-title">They're Responsive</h5>
+                <p class="grey-text">PWA Website layouts automatically adjust to the device it is accessed by, meaning users will always be served the version best suited for their device.</p>
             </div>
             <!--Grid column-->
 
             <!--Grid column-->
-            <div class="col-md-4 mb-r">
+            <div class="col-md-6 mb-r">
                 <i class="fas fa-file-code fa-4x red-text"></i>
-                <h5 class="feature-title">Web Development</h5>
-                <p class="grey-text"><a href="https://www.coursera.org/account/accomplishments/certificate/TTALPNLRUEMS">Front-End JavaScript Frameworks: AngularJS</a></p>
-                <p class="grey-text"><a href="https://www.coursera.org/account/accomplishments/certificate/8VGVLUDV5ASM">Server-side Development with NodeJS</a></p>
-                <p class="grey-text"><a href="https://www.coursera.org/account/accomplishments/certificate/CEBKLBU59N">Web Application Architectures</a></p>
+                <h5 class="feature-title">They're Connectivity Independent</h5>
+                <p class="grey-text">Progressive Web Applications &amp; Websites are accessible even on low-speed network connections and even completely offline. No ISP can get between your product and its users.</p>
             </div>
             <!--Grid column-->
 
             <!--Grid column-->
-            <div class="col-md-4 mb-r">
-                <i class="fas fa-mobile-alt fa-4x cyan-text"></i>
-                <h5 class="feature-title">Mobile</h5>
-                <p class="grey-text"><a href="https://www.coursera.org/account/accomplishments/certificate/UNDKNLJUZ5TD">Multiplatform Mobile App Technologies with Web Technologies</a></p>
+            <div class="col-md-6 mb-r">
+                <i class="fas fa-file-code fa-4x red-text"></i>
+                <h5 class="feature-title">They're App-Like</h5>
+                <p class="grey-text">Layouts look and feel like mobile apps, capable of performing many native application functions and boosting user engagement over traditional websites.</p>
             </div>
             <!--Grid column-->
+
+            <!--Grid column-->
+            <div class="col-md-6 mb-r">
+                <i class="fas fa-file-code fa-4x red-text"></i>
+                <h5 class="feature-title">They're Progressive</h5>
+                <p class="grey-text">Will work for any user, regardless of browser choice(Chrome, Safari, Firefox, Edge, Opera) because they’re built with progressive enhancement in mind.</p>
+            </div>
+            <!--Grid column-->
+
+            <!--Grid column-->
+            <div class="col-md-6 mb-r">
+                <i class="fas fa-file-code fa-4x red-text"></i>
+                <h5 class="feature-title">They're Safe</h5>
+                <p class="grey-text">Every PWA is served over the TLS cryptographic protocol, making them the most secure type of websites around, perfect for e-commerce and sensitive data exchange.</p>
+            </div>
+            <!--Grid column-->
+
+            <!--Grid column-->
+            <div class="col-md-6 mb-r">
+                <i class="fas fa-file-code fa-4x red-text"></i>
+                <h5 class="feature-title">Discoverable</h5>
+                <p class="grey-text">Identifiable on your phone as a local application, while also being accessible via popular search engines like Google&mdash;a major advantage over native mobile apps and standard websites in terms of accessibility and SEO.</p>
+            </div>
+            <!--Grid column-->
+
+            <!--Grid column-->
+            <div class="col-md-6 mb-r">
+                <i class="fas fa-file-code fa-4x red-text"></i>
+                <h5 class="feature-title">Re-Engageable</h5>
+                <p class="grey-text">Progressive Web Apps &amp; Websites can use Push Notifications so you can send alerts directly to your users without needing to clog up their email inbox or have your messages end up in junk-mail.</p>
+            </div>
+            <!--Grid column-->
+
+            <!--Grid column-->
+            <div class="col-md-6 mb-r">
+                <i class="fas fa-file-code fa-4x red-text"></i>
+                <h5 class="feature-title">Installable</h5>
+                <p class="grey-text">Your users can easily install your app to their device's home screen without the hassle of going through the app store. This also means that updates to your application are not limited by your users' access to the App Store. "It just works."</p>
+            </div>
+            <!--Grid column-->
+
+            <!--Grid column-->
+            <div class="col-md-6 mb-r">
+                <i class="fas fa-file-code fa-4x red-text"></i>
+                <h5 class="feature-title">Linkeable</h5>
+                <p class="grey-text">PWA Websites also work in low-speed network connection areas and even completely offline.</p>
+            </div>
+            <!--Grid column-->
+
+            <!--Grid column-->
+            <div class="col-md-6 mb-r">
+                <i class="fas fa-file-code fa-4x red-text"></i>
+                <h5 class="feature-title">Fresh</h5>
+                <p class="grey-text">PWA Websites also work in low-speed network connection areas and even completely offline.</p>
+            </div>
+            <!--Grid column-->
+
  
         </div>
         <!--Grid row-->
@@ -345,30 +396,6 @@
                                     </div>
                                 </div>
     
-                                <!--<div class="col-lg-4">
-                                    <div class="card-body contact text-center">
-                                        <div class="container">
-                                            <div class="mb-5">
-                                                <h3 class="black-text">Contact Information</h3>
-                                            </div>
-    
-                                            <ul class="contact-icons">
-                                                <li class="black-text py-4"><i class="fa fa-map-marker"></i>
-                                                    <p>Corinth, Gros-Islet, St. Lucia</p>
-                                                </li>
-    
-                                                <li class="black-text py-4"><i class="fa fa-phone"></i>
-                                                    <p>+ 1 758 287 7459</p>
-                                                </li>
-    
-                                                <li class="black-text py-4"><i class="fa fa-envelope"></i>
-                                                    <p>remy.e.francis@gmail.com</p>
-                                                </li>
-                                            </ul>
-    
-                                        </div>
-                                    </div>
-                                </div>-->
                             </div>       
                         </div>
                         <!--/Form with header-->
