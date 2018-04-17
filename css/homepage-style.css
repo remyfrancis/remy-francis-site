@@ -4,6 +4,7 @@
 }
 .navbar:not(.top-nav-collapse) {
     background: transparent!important;
+    box-shadow: none;
 }
 @media (max-width: 768px) {
     .navbar:not(.top-nav-collapse) {
@@ -23,6 +24,7 @@
         height: 600px;
     }
 }
+
 footer.page-footer {
 background-color: #1B1B1B;
 }

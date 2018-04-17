@@ -51,30 +51,30 @@
                 <div class="collapse navbar-collapse" id="navbarSupportedContent-7">
                     <ul class="navbar-nav mr-auto">
                         <li class="nav-item">
-                            <a class="nav-link" href="index.php">Home</a>
+                            <a class="nav-link text-uppercase waves-light" href="index.php">Home</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="portfolio.html">Portfolio</a>
+                            <a class="nav-link text-uppercase waves-light" href="portfolio.html">Portfolio</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="services.html">Services</a>
+                            <a class="nav-link text-uppercase waves-light" href="services.html">Services</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="about.html">About Me</a>
+                            <a class="nav-link text-uppercase waves-light" href="about.html">About Me</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="contact.html">Contact</a>
+                            <a class="nav-link text-uppercase waves-light" href="contact.html">Contact</a>
                         </li>
                     </ul>
                     <ul class="navbar-nav nav-flex-icons">
                         <li class="nav-item">
-                            <a class="nav-link"><i class="fab fa-facebook-f"></i></a>
+                            <a class="nav-link text-uppercase waves-light"><i class="fab fa-facebook-f"></i></a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="https://twitter.com/RemTheDeveloper"><i class="fab fa-twitter"></i></a>
+                            <a class="nav-link text-uppercase waves-light" href="https://twitter.com/RemTheDeveloper"><i class="fab fa-twitter"></i></a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="https://www.instagram.com/remzthedeveloper/"><i class="fab fa-instagram"></i></a>
+                            <a class="nav-link text-uppercase waves-light" href="https://www.instagram.com/remzthedeveloper/"><i class="fab fa-instagram"></i></a>
                         </li>
                     </ul>
                 </div>
@@ -91,7 +91,7 @@
                 <div class="row mt-5">
                     <div class="col-md-12 wow fadeIn mb-3">
                         <div class="intro-info-content">
-                            <h1 class="display-1 mb-2 white-text wow animated fadeInDown" data-wow-delay="0.3s"><span class="white-text font-bold">WE DELIVER ACCESSIBLE WEB PLATFORMS</span></h1>
+                            <h1 class="display-1 mb-2 white-text wow animated fadeInDown" data-wow-delay="0.3s"><span class="white-text font-bold">WE CREATE EXTRAORDINARY PROJECTS</span></h1>
                             <h5 class="font-up mb-3 mt-1 white-text font-bold wow animated fadeInDown" data-wow-delay="0.4s">Web & Mobile Developer</h5>
                             <h5 class="mb-3 mt-1 white-text font-bold wow animated fadeInDown" data-wow-delay="0.5s">Smart solutions for the digital age.</h5>
                             <a class="btn btn-outline-white grey darken-4 btn-lg wow animated fadeInDown" data-wow-delay="0.6s" href="http://www.remyfrancis.com/pages/proposal.html">Ask For A Quote!</a> </div>
