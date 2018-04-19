@@ -90,15 +90,10 @@
             <div class="d-flex align-items-center d-flex justify-content-center" style="height: 850px">
                 <div class="row mt-5">
                     <div class="col-md-12 wow fadeIn mb-3">
-                        <div class="intro-info-content">
-                            <h1 class="display-1 mb-2 white-text wow animated fadeInDown" data-wow-delay="0.3s"><span class="white-text font-bold">Progressive Web Application Developer</span></h1>
-                            <h5 class="font-up mb-3 mt-1 white-text font-bold wow animated fadeInDown" data-wow-delay="0.4s">PWA Development Services</h5>
-                            <ul>
-                                <li class="mb-3 mt-1 white-text font-bold wow animated fadeInDown" data-wow-delay="0.5s">Custom Progressive App Development</li>
-                                <li class="mb-3 mt-1 white-text font-bold wow animated fadeInDown" data-wow-delay="0.5s">Responsive Design</li>
-                                <li class="mb-3 mt-1 white-text font-bold wow animated fadeInDown" data-wow-delay="0.5s">Progressive Web Design</li>
-                                <li class="mb-3 mt-1 white-text font-bold wow animated fadeInDown" data-wow-delay="0.5s">High Quality Websites &amp; Apps</li>
-                            </ul>
+                        <div class="intro-info-content text-center">
+                            <h1 class="display-1 mb-2 white-text wow animated fadeInDown" data-wow-delay="0.3s">REMY <a class="white-text font-bold">FRANCIS</a></h1>
+                            <h5 class="font-up mb-3 mt-1 white-text font-bold wow animated fadeInDown" data-wow-delay="0.4s">Web & Mobile Developer</h5>
+                            <h5 class="mb-3 mt-1 white-text font-bold wow animated fadeInDown" data-wow-delay="0.5s">I develop informational and small business websites, e-commerce websites, progressive web applications and hybrid mobile apps.</h5>
                             <a class="btn btn-outline-white grey darken-4 btn-lg wow animated fadeInDown" data-wow-delay="0.6s" href="http://www.remyfrancis.com/pages/proposal.html">Ask For A Quote!</a> </div>
                     </div>
                 </div>
@@ -134,7 +129,7 @@
             <div class="col-lg-7 mb-4">
                 <!--Excerpt-->
                 <h4 class="mb-4"><strong>PWAs Are The Future Of Web</strong></h4>
-                <p><strong>We build fast, reliable and engaging websites with performance and a user experience that matches mobile applications. No one else specializes in this new web stand, and so we provide you with the first-mover advantage combining the best of the web and the best of apps in one beautiful package. We ensure that web apps are adaptive on multiple devices of varying screen sizes for seamless performance.</strong></p>
+                <p><strong>I build fast, reliable and engaging websites with performance and a user experience that matches mobile applications. Providing you with the first-mover advantage utilizing this new web standard, I combine the best of the web and the best of apps in one beautiful package. My mobile web apps are adaptive on all devices of varying screen sizes for seamless performance.</strong></p>
                 <p><strong>Progressive Web Apps (PWAs) are a new method of developing standard websites and web applications that provides mobile users with usability akin to a mobile application regardless of the medium used to access it. PWA is a standard heavily supported and promoted by Google and represents the next phase of the web, a perfect marriage between mobile apps and responsive websites.</strong></p> 
             </div>
             <!--Grid column-->
