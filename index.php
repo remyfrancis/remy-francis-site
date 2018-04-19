@@ -26,7 +26,7 @@
     <meta name="og:url" content="http://remyfrancis.com">
     <meta name="og:site_name" content="Remy Francis Web Development Services">
     <meta name="og:type" content="website">
-    <title>Quantum Web Services</title>
+    <title>Quantum Web Apps</title>
     <!-- Font Awesome -->
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.6/css/all.css">
     <!-- Bootstrap core CSS -->
@@ -91,9 +91,14 @@
                 <div class="row mt-5">
                     <div class="col-md-12 wow fadeIn mb-3">
                         <div class="intro-info-content">
-                            <h1 class="display-1 mb-2 white-text wow animated fadeInDown" data-wow-delay="0.3s"><span class="white-text font-bold">WE CREATE EXTRAORDINARY PROJECTS</span></h1>
-                            <h5 class="font-up mb-3 mt-1 white-text font-bold wow animated fadeInDown" data-wow-delay="0.4s">Web & Mobile Developer</h5>
-                            <h5 class="mb-3 mt-1 white-text font-bold wow animated fadeInDown" data-wow-delay="0.5s">Smart solutions for the digital age.</h5>
+                            <h1 class="display-1 mb-2 white-text wow animated fadeInDown" data-wow-delay="0.3s"><span class="white-text font-bold">Progressive Web Application Developer</span></h1>
+                            <h5 class="font-up mb-3 mt-1 white-text font-bold wow animated fadeInDown" data-wow-delay="0.4s">PWA Development Services</h5>
+                            <ul>
+                                <li class="mb-3 mt-1 white-text font-bold wow animated fadeInDown" data-wow-delay="0.5s">Custom Progressive App Development</li>
+                                <li class="mb-3 mt-1 white-text font-bold wow animated fadeInDown" data-wow-delay="0.5s">Responsive Design</li>
+                                <li class="mb-3 mt-1 white-text font-bold wow animated fadeInDown" data-wow-delay="0.5s">Progressive Web Design</li>
+                                <li class="mb-3 mt-1 white-text font-bold wow animated fadeInDown" data-wow-delay="0.5s">High Quality Websites &amp; Apps</li>
+                            </ul>
                             <a class="btn btn-outline-white grey darken-4 btn-lg wow animated fadeInDown" data-wow-delay="0.6s" href="http://www.remyfrancis.com/pages/proposal.html">Ask For A Quote!</a> </div>
                     </div>
                 </div>
@@ -108,7 +113,7 @@
     <section class="section extra-margins text-center text-lg-left">
 
         <!--Section heading-->
-        <h2 class="section-heading h1">What Are Progressive Web Apps?</h2>
+        <h2 class="section-heading h1">Our Service</h2>
 
         <!--Grid row-->
         <div class="row">
@@ -129,7 +134,8 @@
             <div class="col-lg-7 mb-4">
                 <!--Excerpt-->
                 <h4 class="mb-4"><strong>PWAs Are The Future Of Web</strong></h4>
-                <p class="grey-text"><strong>Progressive Web Apps (PWAs) are a new method of developing standard websites and web applications that provides mobile users with usability akin to a mobile application regardless of the medium used to access it. PWA is a standard heavily supported and promoted by Google and represents the next phase of the web, a perfect marriage between mobile apps and responsive websites.</strong></p> 
+                <p><strong>We build fast, reliable and engaging websites with performance and a user experience that matches mobile applications. No one else specializes in this new web stand, and so we provide you with the first-mover advantage combining the best of the web and the best of apps in one beautiful package. We ensure that web apps are adaptive on multiple devices of varying screen sizes for seamless performance.</strong></p>
+                <p><strong>Progressive Web Apps (PWAs) are a new method of developing standard websites and web applications that provides mobile users with usability akin to a mobile application regardless of the medium used to access it. PWA is a standard heavily supported and promoted by Google and represents the next phase of the web, a perfect marriage between mobile apps and responsive websites.</strong></p> 
             </div>
             <!--Grid column-->
 
@@ -164,9 +170,7 @@
     <section class="section feature-box">
 
         <!--Section heading-->
-        <h1 class="section-heading h1">PWA Advantages Over Standard Websites</h1>
-        <!--Section description-->
-        <p class="section-description lead grey-text">My skillset ranges from website development to full-fledged web applications, hybrid mobile applications, and server-side support for both along with a database.</p>
+        <h1 class="section-heading h1">Why go PWA?</h1>
 
         <!--Grid row-->
         <div class="row features-big">
@@ -214,7 +218,7 @@
             <!--Grid column-->
             <div class="col-md-6 mb-r">
                 <i class="fas fa-file-code fa-4x red-text"></i>
-                <h5 class="feature-title">Discoverable</h5>
+                <h5 class="feature-title">They're Discoverable</h5>
                 <p class="grey-text">Identifiable on your phone as a local application, while also being accessible via popular search engines like Google&mdash;a major advantage over native mobile apps and standard websites in terms of accessibility and SEO.</p>
             </div>
             <!--Grid column-->
@@ -222,7 +226,7 @@
             <!--Grid column-->
             <div class="col-md-6 mb-r">
                 <i class="fas fa-file-code fa-4x red-text"></i>
-                <h5 class="feature-title">Re-Engageable</h5>
+                <h5 class="feature-title">They're Re-Engageable</h5>
                 <p class="grey-text">Progressive Web Apps &amp; Websites can use Push Notifications so you can send alerts directly to your users without needing to clog up their email inbox or have your messages end up in junk-mail.</p>
             </div>
             <!--Grid column-->
@@ -230,7 +234,7 @@
             <!--Grid column-->
             <div class="col-md-6 mb-r">
                 <i class="fas fa-file-code fa-4x red-text"></i>
-                <h5 class="feature-title">Installable</h5>
+                <h5 class="feature-title">They're Installable</h5>
                 <p class="grey-text">Your users can easily install your app to their device's home screen without the hassle of going through the app store. This also means that updates to your application are not limited by your users' access to the App Store. "It just works."</p>
             </div>
             <!--Grid column-->
@@ -238,7 +242,7 @@
             <!--Grid column-->
             <div class="col-md-6 mb-r">
                 <i class="fas fa-file-code fa-4x red-text"></i>
-                <h5 class="feature-title">Linkeable</h5>
+                <h5 class="feature-title">They're Linkeable</h5>
                 <p class="grey-text">PWA Websites also work in low-speed network connection areas and even completely offline.</p>
             </div>
             <!--Grid column-->
@@ -246,7 +250,7 @@
             <!--Grid column-->
             <div class="col-md-6 mb-r">
                 <i class="fas fa-file-code fa-4x red-text"></i>
-                <h5 class="feature-title">Fresh</h5>
+                <h5 class="feature-title">They're Fresh</h5>
                 <p class="grey-text">PWA Websites also work in low-speed network connection areas and even completely offline.</p>
             </div>
             <!--Grid column-->
