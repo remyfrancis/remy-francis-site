@@ -89,11 +89,11 @@
         <div class="container">
             <div class="d-flex align-items-center d-flex justify-content-center" style="height: 850px">
                 <div class="row mt-5">
-                    <div class="col-md-12 wow fadeIn mb-3">
+                    <div class="col-md-12 wow fadeIn mb-3 mx-3">
                         <div class="intro-info-content text-center">
-                            <h1 class="display-1 mb-2 white-text wow animated fadeInDown" data-wow-delay="0.3s">REMY <a class="white-text font-bold">FRANCIS</a></h1>
+                            <h1 class="display-3 mb-2 white-text wow animated fadeInDown" data-wow-delay="0.3s">REMY <a class="white-text font-bold">FRANCIS</a></h1>
                             <h5 class="font-up mb-3 mt-1 white-text font-bold wow animated fadeInDown" data-wow-delay="0.4s">Web & Mobile Developer</h5>
-                            <h5 class="mb-3 mt-1 white-text font-bold wow animated fadeInDown" data-wow-delay="0.5s">I develop informational and small business websites, e-commerce websites, progressive web applications and hybrid mobile apps.</h5>
+                            <h5 class="mb-3 mt-1 white-text font-bold wow animated fadeInDown" data-wow-delay="0.5s">I develop awesome cross-platform mobile web apps and websites.</h5>
                             <a class="btn btn-outline-white grey darken-4 btn-lg wow animated fadeInDown" data-wow-delay="0.6s" href="http://www.remyfrancis.com/pages/proposal.html">Ask For A Quote!</a> </div>
                     </div>
                 </div>
@@ -129,8 +129,7 @@
             <div class="col-lg-7 mb-4">
                 <!--Excerpt-->
                 <h4 class="mb-4"><strong>PWAs Are The Future Of Web</strong></h4>
-                <p><strong>I build fast, reliable and engaging websites with performance and a user experience that matches mobile applications. Providing you with the first-mover advantage utilizing this new web standard, I combine the best of the web and the best of apps in one beautiful package. My mobile web apps are adaptive on all devices of varying screen sizes for seamless performance.</strong></p>
-                <p><strong>Progressive Web Apps (PWAs) are a new method of developing standard websites and web applications that provides mobile users with usability akin to a mobile application regardless of the medium used to access it. PWA is a standard heavily supported and promoted by Google and represents the next phase of the web, a perfect marriage between mobile apps and responsive websites.</strong></p> 
+                <p><strong>I build fast, reliable and engaging websites with performance and a user experience that matches mobile applications. Providing you with the first-mover advantage utilizing Google's latest web standard, I combine the beauty of the web and the flexibility of apps into one beautiful package. My projects are adaptive on all devices of varying screen sizes for seamless performance!</strong></p>
             </div>
             <!--Grid column-->
 
@@ -165,7 +164,7 @@
     <section class="section feature-box">
 
         <!--Section heading-->
-        <h1 class="section-heading h1">Why go PWA?</h1>
+        <h1 class="section-heading display-3 font-up feature-title">My projects are</h1>
 
         <!--Grid row-->
         <div class="row features-big">
@@ -173,47 +172,47 @@
             <!--Grid column-->
             <div class="col-md-6 mb-r">
                 <i class="fas fa-spinner fa-4x orange-text"></i>
-                <h5 class="feature-title">They're Responsive</h5>
-                <p class="grey-text">PWA Website layouts automatically adjust to the device it is accessed by, meaning users will always be served the version best suited for their device.</p>
+                <h5 class="display-4">Responsive</h5>
+                <p class="grey-text">Layouts automatically adjust to the device it is accessed by, meaning users will always be served the version best suited for their device.</p>
             </div>
             <!--Grid column-->
 
             <!--Grid column-->
             <div class="col-md-6 mb-r">
                 <i class="fas fa-file-code fa-4x red-text"></i>
-                <h5 class="feature-title">They're Connectivity Independent</h5>
-                <p class="grey-text">Progressive Web Applications &amp; Websites are accessible even on low-speed network connections and even completely offline. No ISP can get between your product and its users.</p>
+                <h5 class="display-4">Reliable</h5>
+                <p class="grey-text">Accessible even on low-speed network connections and even completely offline. No ISP can get between your product and its users.</p>
             </div>
             <!--Grid column-->
 
             <!--Grid column-->
             <div class="col-md-6 mb-r">
                 <i class="fas fa-file-code fa-4x red-text"></i>
-                <h5 class="feature-title">They're App-Like</h5>
-                <p class="grey-text">Layouts look and feel like mobile apps, capable of performing many native application functions and boosting user engagement over traditional websites.</p>
+                <h5 class="display-4">App-Like</h5>
+                <p class="grey-text">Look and feel like mobile apps, capable of performing many native application functions and boosting user engagement over traditional websites.</p>
             </div>
             <!--Grid column-->
 
             <!--Grid column-->
             <div class="col-md-6 mb-r">
                 <i class="fas fa-file-code fa-4x red-text"></i>
-                <h5 class="feature-title">They're Progressive</h5>
-                <p class="grey-text">Will work for any user, regardless of browser choice(Chrome, Safari, Firefox, Edge, Opera) because they’re built with progressive enhancement in mind.</p>
+                <h5 class="display-4">Progressive</h5>
+                <p class="grey-text">Will work for any user, regardless of browser choice(Chrome, Safari, Firefox, Edge, Opera), operating system or phone because they’re built with progressive enhancement in mind.</p>
             </div>
             <!--Grid column-->
 
             <!--Grid column-->
             <div class="col-md-6 mb-r">
                 <i class="fas fa-file-code fa-4x red-text"></i>
-                <h5 class="feature-title">They're Safe</h5>
-                <p class="grey-text">Every PWA is served over the TLS cryptographic protocol, making them the most secure type of websites around, perfect for e-commerce and sensitive data exchange.</p>
+                <h5 class="display-4">Safe</h5>
+                <p class="grey-text">Every project and product is served over the TLS cryptographic protocol, making them the most secure type of websites around, perfect for e-commerce and sensitive data exchange.</p>
             </div>
             <!--Grid column-->
 
             <!--Grid column-->
             <div class="col-md-6 mb-r">
                 <i class="fas fa-file-code fa-4x red-text"></i>
-                <h5 class="feature-title">They're Discoverable</h5>
+                <h5 class="display-4">Discoverable</h5>
                 <p class="grey-text">Identifiable on your phone as a local application, while also being accessible via popular search engines like Google&mdash;a major advantage over native mobile apps and standard websites in terms of accessibility and SEO.</p>
             </div>
             <!--Grid column-->
@@ -221,15 +220,15 @@
             <!--Grid column-->
             <div class="col-md-6 mb-r">
                 <i class="fas fa-file-code fa-4x red-text"></i>
-                <h5 class="feature-title">They're Re-Engageable</h5>
-                <p class="grey-text">Progressive Web Apps &amp; Websites can use Push Notifications so you can send alerts directly to your users without needing to clog up their email inbox or have your messages end up in junk-mail.</p>
+                <h5 class="display-4">Re-Engageable</h5>
+                <p class="grey-text">Can use Push Notifications so you can send alerts directly to your users without needing to clog up their email inbox or have your messages end up in junk-mail.</p>
             </div>
             <!--Grid column-->
 
             <!--Grid column-->
             <div class="col-md-6 mb-r">
                 <i class="fas fa-file-code fa-4x red-text"></i>
-                <h5 class="feature-title">They're Installable</h5>
+                <h5 class="display-4">Installable</h5>
                 <p class="grey-text">Your users can easily install your app to their device's home screen without the hassle of going through the app store. This also means that updates to your application are not limited by your users' access to the App Store. "It just works."</p>
             </div>
             <!--Grid column-->
@@ -237,16 +236,16 @@
             <!--Grid column-->
             <div class="col-md-6 mb-r">
                 <i class="fas fa-file-code fa-4x red-text"></i>
-                <h5 class="feature-title">They're Linkeable</h5>
-                <p class="grey-text">PWA Websites also work in low-speed network connection areas and even completely offline.</p>
+                <h5 class="display-4">Linkeable</h5>
+                <p class="grey-text">Easily shared via a URL.</p>
             </div>
             <!--Grid column-->
 
             <!--Grid column-->
             <div class="col-md-6 mb-r">
                 <i class="fas fa-file-code fa-4x red-text"></i>
-                <h5 class="feature-title">They're Fresh</h5>
-                <p class="grey-text">PWA Websites also work in low-speed network connection areas and even completely offline.</p>
+                <h5 class="display-4">Fresh</h5>
+                <p class="grey-text">Always up-to-date.</p>
             </div>
             <!--Grid column-->
 
@@ -272,143 +271,137 @@
 
 </div>
 
-<div class="view intro hm-pink-slight jarallax" data-jarallax='{"speed": 0.2}' style="background-image: url('img/contact.jpg');">
-    <div class="full-bg-img">
-        <!--Section: Contact v.3-->
-        <section class="section pb-2 contactsection">
+<div class="container">
+    <!--Section: Contact v.3-->
+    <section class="section pb-2 contactsection">
 
-                <!--Section heading-->
-                <h2 class="section-heading white-text h1">Get A Free Quote Now!</h2>
-    
-                <!--Grid row-->
-                <div class="row">
-    
-                    <!--Grid column-->
-                    <div class="col-md-12">
-    
-                        <!--Form with header-->
-                        <div class="card">
-                            <div class="row">
-                                <div class="col-lg-12">
-                                    <div class="card-body form">
-                                        <!--Header-->
-                                        <div class="formHeader mb-1 pt-3 text-center">
-                                            <h3><i class="fa fa-envelope"></i> Tell Me About Your Business And Ideas. Let's Start Building That Solution</h3>
-                                        </div>
-    
-                                        <br>
-    
-                                        <form id ="contact-form" name="contact-form" onsubmit="return validateForm()">
-                                            <!--Grid row-->
-                                            <div class="row">
-    
-                                                <!--Grid column-->
-                                                <div class="col-md-6">
-                                                    <div class="md-form">
-                                                        <div class="md-form">
-                                                            <input type="text" id="name" name="name" class="form-control">
-                                                            <label for="name" class="">Your name</label>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <!--Grid column-->
-    
-                                                <!--Grid column-->
-                                                <div class="col-md-6">
-                                                    <div class="md-form">
-                                                        <div class="md-form">
-                                                            <input type="text" id="email" name="email" class="form-control">
-                                                            <label for="email" class="">Your email</label>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <!--Grid column-->
-    
-                                            </div>
-                                            <!--Grid row-->
-    
-                                            <!--Grid row-->
-                                            <div class="row">
-    
-                                                <!--Grid column-->
-                                                <div class="col-md-6">
-                                                    <div class="md-form">
-                                                        <div class="md-form">
-                                                            <input type="text" id="phone" name="phone" class="form-control">
-                                                            <label for="phone" class="">Your phone</label>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <!--Grid column-->
-    
-                                                <!--Grid column-->
-                                                <div class="col-md-6">
-                                                    <div class="md-form">
-                                                        <div class="md-form">
-                                                            <input type="text" id="company" name="company" class="form-control">
-                                                            <label for="company" class="">Your company</label>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <!--Grid column-->
-    
-                                            </div>
-                                            <!--Grid row-->
+            <!--Grid row-->
+            <div class="row">
 
-                                            <!--Grid row-->
-                                            <div class="row">
-    
-                                                <!--Grid column-->
-                                                <div class="col-md-12">
-                                                    <div class="md-form">
-                                                        <div class="md-form">
-                                                            <input type="text" id="subject" name="subject" class="form-control">
-                                                            <label for="subject" class="">Subject</label>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <!--Grid column-->
-        
-                                            </div>
-                                            <!--Grid row-->
-    
-                                            <!--Grid row-->
-                                            <div class="row">
-    
-                                                <!--Grid column-->
-                                                <div class="col-md-12">
-    
-                                                    <div class="md-form">
-                                                        <textarea type="text" id="message" name="message" class="md-textarea"></textarea>
-                                                        <label for="message">Your message</label>
-                                                        <button type="submit" class="btn-floating btn-lg blue" onclick="validateform()"><i class="fas fa-paper-plane"></i></button>
-                                                    </div>
-                                                    <div class="status" id="status"></div>
-    
-                                                </div>
-                                                <!--Grid column-->
-    
-                                            </div>
-                                            <!--Grid row-->
-                                        </form>
-    
+                <!--Grid column-->
+                <div class="col-md-12">
+
+                    <!--Form with header-->
+                    <div class="card">
+                        <div class="row">
+                            <div class="col-lg-12">
+                                <div class="card-body form">
+                                    <!--Header-->
+                                    <div class="formHeader mb-1 pt-3 text-center">
+                                        <h3 class="display-4"><i class="fa fa-envelope"></i> Let's Start Building That Solution</h3>
                                     </div>
+
+                                    <br>
+
+                                    <form id ="contact-form" name="contact-form" onsubmit="return validateForm()">
+                                        <!--Grid row-->
+                                        <div class="row">
+
+                                            <!--Grid column-->
+                                            <div class="col-md-6">
+                                                <div class="md-form">
+                                                    <div class="md-form">
+                                                        <input type="text" id="name" name="name" class="form-control">
+                                                        <label for="name" class="">Your name</label>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <!--Grid column-->
+
+                                            <!--Grid column-->
+                                            <div class="col-md-6">
+                                                <div class="md-form">
+                                                    <div class="md-form">
+                                                        <input type="text" id="email" name="email" class="form-control">
+                                                        <label for="email" class="">Your email</label>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <!--Grid column-->
+
+                                        </div>
+                                        <!--Grid row-->
+
+                                        <!--Grid row-->
+                                        <div class="row">
+
+                                            <!--Grid column-->
+                                            <div class="col-md-6">
+                                                <div class="md-form">
+                                                    <div class="md-form">
+                                                        <input type="text" id="phone" name="phone" class="form-control">
+                                                        <label for="phone" class="">Your phone</label>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <!--Grid column-->
+
+                                            <!--Grid column-->
+                                            <div class="col-md-6">
+                                                <div class="md-form">
+                                                    <div class="md-form">
+                                                        <input type="text" id="company" name="company" class="form-control">
+                                                        <label for="company" class="">Your company</label>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <!--Grid column-->
+
+                                        </div>
+                                        <!--Grid row-->
+
+                                        <!--Grid row-->
+                                        <div class="row">
+
+                                            <!--Grid column-->
+                                            <div class="col-md-12">
+                                                <div class="md-form">
+                                                    <div class="md-form">
+                                                        <input type="text" id="subject" name="subject" class="form-control">
+                                                        <label for="subject" class="">Subject</label>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <!--Grid column-->
+    
+                                        </div>
+                                        <!--Grid row-->
+
+                                        <!--Grid row-->
+                                        <div class="row">
+
+                                            <!--Grid column-->
+                                            <div class="col-md-12">
+
+                                                <div class="md-form">
+                                                    <textarea type="text" id="message" name="message" class="md-textarea"></textarea>
+                                                    <label for="message">Your message</label>
+                                                    <button type="submit" class="btn-floating btn-lg blue" onclick="validateform()"><i class="fas fa-paper-plane"></i></button>
+                                                </div>
+                                                <div class="status" id="status"></div>
+
+                                            </div>
+                                            <!--Grid column-->
+
+                                        </div>
+                                        <!--Grid row-->
+                                    </form>
+
                                 </div>
-    
-                            </div>       
-                        </div>
-                        <!--/Form with header-->
-    
+                            </div>
+
+                        </div>       
                     </div>
-                    <!--Grid column-->
-    
+                    <!--/Form with header-->
+
                 </div>
-                <!--Grid row-->
-    
-            </section>
-            <!--Section: Contact v.3-->
-        
-    </div>
+                <!--Grid column-->
+
+            </div>
+            <!--Grid row-->
+
+        </section>
+        <!--Section: Contact v.3-->
 </div>
 
 <!--Footer-->
