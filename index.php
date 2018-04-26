@@ -26,7 +26,16 @@
     <meta name="og:url" content="http://remyfrancis.com">
     <meta name="og:site_name" content="Remy Francis Web Development Services">
     <meta name="og:type" content="website">
-    <title>Quantum Web Apps</title>
+    <!--Favicon-->
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="theme-color" content="#ffffff">
+    <!--Page Title-->
+    <title>Remy Francis Web Development</title>
     <!-- Font Awesome -->
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.6/css/all.css">
     <!-- Bootstrap core CSS -->
@@ -51,30 +60,30 @@
                 <div class="collapse navbar-collapse" id="navbarSupportedContent-7">
                     <ul class="navbar-nav mr-auto">
                         <li class="nav-item">
-                            <a class="nav-link text-uppercase waves-light" href="index.php">Home</a>
+                            <a class="nav-link waves-light" href="index.php">Home</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-uppercase waves-light" href="portfolio.html">Portfolio</a>
+                            <a class="nav-link waves-light" href="portfolio.html">Portfolio</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-uppercase waves-light" href="services.html">Services</a>
+                            <a class="nav-link waves-light" href="services.html">Services</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-uppercase waves-light" href="about.html">About Me</a>
+                            <a class="nav-link waves-light" href="about.html">About Me</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-uppercase waves-light" href="contact.html">Contact</a>
+                            <a class="nav-link waves-light" href="contact.html">Contact</a>
                         </li>
                     </ul>
                     <ul class="navbar-nav nav-flex-icons">
                         <li class="nav-item">
-                            <a class="nav-link text-uppercase waves-light"><i class="fab fa-facebook-f"></i></a>
+                            <a class="nav-link waves-light"><i class="fab fa-facebook-f"></i></a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-uppercase waves-light" href="https://twitter.com/RemTheDeveloper"><i class="fab fa-twitter"></i></a>
+                            <a class="nav-link waves-light" href="https://twitter.com/RemTheDeveloper"><i class="fab fa-twitter"></i></a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-uppercase waves-light" href="https://www.instagram.com/remzthedeveloper/"><i class="fab fa-instagram"></i></a>
+                            <a class="nav-link waves-light" href="https://www.instagram.com/remzthedeveloper/"><i class="fab fa-instagram"></i></a>
                         </li>
                     </ul>
                 </div>
@@ -94,62 +103,8 @@
                             <h1 class="display-3 mb-2 white-text wow animated fadeInDown" data-wow-delay="0.3s">REMY <a class="white-text font-bold">FRANCIS</a></h1>
                             <h5 class="font-up mb-3 mt-1 white-text font-bold wow animated fadeInDown" data-wow-delay="0.4s">Web & Mobile Developer</h5>
                             <h5 class="mb-3 mt-1 white-text font-bold wow animated fadeInDown" data-wow-delay="0.5s">I develop awesome cross-platform mobile web apps and websites.</h5>
-                            <a class="btn btn-outline-white grey darken-4 btn-lg wow animated fadeInDown" data-wow-delay="0.6s" href="http://www.remyfrancis.com/pages/proposal.html">Ask For A Quote!</a> </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-
-<div class="container">
-    
-    <!--Section: Blog v.3-->
-    <section class="section extra-margins text-center text-lg-left">
-
-        <!--Section heading-->
-        <h2 class="section-heading h1">Our Service</h2>
-
-        <!--Grid row-->
-        <div class="row">
-
-            <!--Grid column-->
-            <div class="col-lg-4 mb-4">
-                <!--Featured image-->
-                <div class="view overlay hm-black-slight z-depth-1">
-                    <img src="img/pwa.png" alt="Remy image">
-                    <a>
-                        <div class="mask"></div>
-                    </a>
-                </div>
-            </div>
-            <!--Grid column-->
-
-            <!--Grid column-->
-            <div class="col-lg-7 mb-4">
-                <!--Excerpt-->
-                <h4 class="mb-4"><strong>PWAs Are The Future Of Web</strong></h4>
-                <p><strong>I build fast, reliable and engaging websites with performance and a user experience that matches mobile applications. Providing you with the first-mover advantage utilizing Google's latest web standard, I combine the beauty of the web and the flexibility of apps into one beautiful package. My projects are adaptive on all devices of varying screen sizes for seamless performance!</strong></p>
-            </div>
-            <!--Grid column-->
-
-        </div>
-        <!--Grid row-->
-
-    </section>
-
-
-</div>
-
-<div class="view intro hm-black-light jarallax" data-jarallax='{"speed": 0.2}' style="background-image: url('img/analytics.jpg');">
-    <div class="full-bg-img">
-        <div class="container">
-            <div class="d-flex align-items-center d-flex justify-content-center" style="height: 700px">
-                <div class="row mt-5">
-                    <div class="col-md-12 wow fadeIn mb-3">
-                        <div class="intro-info-content text-center">
-                            <h5 class="display-3 white-text mb-2 wow fadeInDown" data-wow-delay="0.3s">“Websites promote you 24/7:<br>No employee will do that.”</h5>
-                            <h5 class="font-up white-text mb-3 mt-1 font-bold wow fadeIn" data-wow-delay="0.4s">― Paul Cookson</h5>
+                            <a class="btn btn-outline-white grey darken-4 btn-lg wow animated fadeInDown" data-wow-delay="0.6s" href="http://www.remyfrancis.com/proposal.html">Ask For A Quote!</a> 
+                            <h5 class="display-4 white-text animated bounce infinite"><i class="fas fa-angle-down"></i></h5>
                         </div>
                     </div>
                 </div>
@@ -158,251 +113,332 @@
     </div>
 </div>
 
+<main>
 <div class="container">
     
-    <!--Section: Features v.1-->
-    <section class="section feature-box">
+    <!-- Section: About -->
+    <section id="about" class="section about mt-5 mb-5 py-3 wow fadeIn" data-wow-delay="0.2s">
 
-        <!--Section heading-->
-        <h1 class="section-heading display-3 font-up feature-title">My projects are</h1>
+    <!-- Grid row -->
+    <div class="row pt-2 mt-5">
 
-        <!--Grid row-->
-        <div class="row features-big">
-
-            <!--Grid column-->
-            <div class="col-md-6 mb-r">
-                <i class="fas fa-spinner fa-4x orange-text"></i>
-                <h5 class="display-4">Responsive</h5>
-                <p class="grey-text">Layouts automatically adjust to the device it is accessed by, meaning users will always be served the version best suited for their device.</p>
-            </div>
-            <!--Grid column-->
-
-            <!--Grid column-->
-            <div class="col-md-6 mb-r">
-                <i class="fas fa-file-code fa-4x red-text"></i>
-                <h5 class="display-4">Reliable</h5>
-                <p class="grey-text">Accessible even on low-speed network connections and even completely offline. No ISP can get between your product and its users.</p>
-            </div>
-            <!--Grid column-->
-
-            <!--Grid column-->
-            <div class="col-md-6 mb-r">
-                <i class="fas fa-file-code fa-4x red-text"></i>
-                <h5 class="display-4">App-Like</h5>
-                <p class="grey-text">Look and feel like mobile apps, capable of performing many native application functions and boosting user engagement over traditional websites.</p>
-            </div>
-            <!--Grid column-->
-
-            <!--Grid column-->
-            <div class="col-md-6 mb-r">
-                <i class="fas fa-file-code fa-4x red-text"></i>
-                <h5 class="display-4">Progressive</h5>
-                <p class="grey-text">Will work for any user, regardless of browser choice(Chrome, Safari, Firefox, Edge, Opera), operating system or phone because they’re built with progressive enhancement in mind.</p>
-            </div>
-            <!--Grid column-->
-
-            <!--Grid column-->
-            <div class="col-md-6 mb-r">
-                <i class="fas fa-file-code fa-4x red-text"></i>
-                <h5 class="display-4">Safe</h5>
-                <p class="grey-text">Every project and product is served over the TLS cryptographic protocol, making them the most secure type of websites around, perfect for e-commerce and sensitive data exchange.</p>
-            </div>
-            <!--Grid column-->
-
-            <!--Grid column-->
-            <div class="col-md-6 mb-r">
-                <i class="fas fa-file-code fa-4x red-text"></i>
-                <h5 class="display-4">Discoverable</h5>
-                <p class="grey-text">Identifiable on your phone as a local application, while also being accessible via popular search engines like Google&mdash;a major advantage over native mobile apps and standard websites in terms of accessibility and SEO.</p>
-            </div>
-            <!--Grid column-->
-
-            <!--Grid column-->
-            <div class="col-md-6 mb-r">
-                <i class="fas fa-file-code fa-4x red-text"></i>
-                <h5 class="display-4">Re-Engageable</h5>
-                <p class="grey-text">Can use Push Notifications so you can send alerts directly to your users without needing to clog up their email inbox or have your messages end up in junk-mail.</p>
-            </div>
-            <!--Grid column-->
-
-            <!--Grid column-->
-            <div class="col-md-6 mb-r">
-                <i class="fas fa-file-code fa-4x red-text"></i>
-                <h5 class="display-4">Installable</h5>
-                <p class="grey-text">Your users can easily install your app to their device's home screen without the hassle of going through the app store. This also means that updates to your application are not limited by your users' access to the App Store. "It just works."</p>
-            </div>
-            <!--Grid column-->
-
-            <!--Grid column-->
-            <div class="col-md-6 mb-r">
-                <i class="fas fa-file-code fa-4x red-text"></i>
-                <h5 class="display-4">Linkeable</h5>
-                <p class="grey-text">Easily shared via a URL.</p>
-            </div>
-            <!--Grid column-->
-
-            <!--Grid column-->
-            <div class="col-md-6 mb-r">
-                <i class="fas fa-file-code fa-4x red-text"></i>
-                <h5 class="display-4">Fresh</h5>
-                <p class="grey-text">Always up-to-date.</p>
-            </div>
-            <!--Grid column-->
-
- 
+        <!-- Grid column -->
+        <div class="col-lg-5 col-md-12 mb-3 wow fadeIn" data-wow-delay="0.4s">
+            <!-- Image -->
+            <img src="https://mdbootstrap.com/img/Photos/Others/images/66.jpg" class="img-fluid z-depth-1 rounded" alt="My photo">
         </div>
-        <!--Grid row-->
+        <!-- Grid column -->
 
-        <!--Grid row-->
-        <div class="row features-big">
-            <!--Grid column-->
-            <div class="col align-self-center mb-r">
-                <i class="fa fa-book fa-2x green-text"></i>
-                <h5 class="feature-title">Building Complete Web Solutions</h5>
-                <p class="grey-text"><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/QL55EE4R3QEN">Full Stack Web Development</a></p>
-            </div>
-            <!--Grid column-->
+        <!-- Grid column -->
+        <div class="col-lg-6 ml-auto col-md-12 wow fadeIn" data-wow-delay="0.4s">
+
+            <!-- Secion heading -->
+            <h3 class="mb-5 dark-grey-text title font-weight-bold wow fadeIn" data-wow-delay="0.2s">
+                <strong>Let me bring your ideas to life</strong>
+            </h3>
+
+            <!-- Description -->
+            <p align="justify" class="grey-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nemo animi soluta ratione quisquam, dicta
+                ab cupiditate iure eaque? Repellendus voluptatum, magni impedit delectus, beatae maxime temporibus
+                maiores quibusdam.</p>
+            <p align="justify" class="grey-text">Rem magnam ad perferendis iusto sint tempora ea voluptatibus iure, animi excepturi modi aut possimus
+                in hic molestias repellendus illo ullam odit quia velit. Lorem ipsum dolor sit amet, consectetur
+                adipisicing elit.</p>
+            <p align="justify" class="grey-text mb-5">Incidunt eligendi mollitia labore ipsum ex fugit explicabo saepe error neque beatae in, expedita
+                eveniet quae aliquam assumenda voluptatibus!</p>
+
         </div>
+        <!-- Grid column -->
 
-        <!--Grid row-->
+    </div>
+    <!-- Grid row -->
 
     </section>
-    <!--Section: Features v.1-->
+    <!-- Section: About -->
+
 
 </div>
+
+
+
+<!-- Streak -->
+<div class="streak streak-photo streak-md" style="background-image: url('https://mdbootstrap.com/img/Photos/Others/architecture.jpg');">
+    <div class="flex-center mask rgba-stylish-strong">
+        <div class="container my-5">
+
+            <!-- Section heading -->
+            <h3 class="text-center pb-3 white-text wow fadeIn" data-wow-delay="0.2s">
+                I build fast, reliable and engaging websites with performance and a user experience that matches mobile applications. Providing you with the first-mover advantage utilizing Google's latest web standard, I combine the beauty of the web and the flexibility of apps into one beautiful package. My projects are adaptive on all devices of varying screen sizes for seamless performance!
+            </h3>
+        </div>
+    </div>
+</div>
+<!-- Streak -->
+
+<div class="container-fluid" style="background-color: #f4f4fa">
+    <div class="container py-4">
+
+        <!--Section: Services-->
+        <section id="services" class="section mt-3 mb-3 pb-3">
+
+            <!-- Section heading -->
+            <h3 class="text-center title my-5 pt-4 pb-5 dark-grey-text font-weight-bold wow fadeIn" data-wow-delay="0.2s">
+                <strong>Progressive Web Site Features</strong>
+            </h3>
+
+            <!-- Grid row -->
+            <div class="row wow fadeIn" data-wow-delay="0.4s">
+
+                <!-- Grid column -->
+                <div class="col-md-4 mb-5 text-center">
+
+                    <!--Panel-->
+                    <div class="text-left">
+                        <p class="feature-title title font-weight-bold dark-grey-text text-uppercase spacing mt-4 mx-4">
+                            <i class="fa fa-square green-text mr-2" aria-hidden="true"></i>
+                            <strong>Responsive</strong>
+                        </p>
+                        <p class="grey-text font-small mx-4">Layouts automatically adjust to the device it is accessed by, meaning users will always be served the version best suited for their device.
+                        </p>
+                    </div>
+                    <!--/.Panel-->
+
+                </div>
+                <!-- /Grid column -->
+
+                <!-- Second column -->
+                <div class="col-md-4 mb-5 text-center">
+
+                    <!--Panel-->
+                    <div class="text-left">
+                        <p class="feature-title title font-weight-bold dark-grey-text text-uppercase spacing mt-4 mx-4">
+                            <i class="fa fa-square green-text mr-2" aria-hidden="true"></i>
+                            <strong>Reliable</strong>
+                        </p>
+                        <p class="grey-text font-small mx-4">Accessible even on low-speed network connections and even completely offline. No ISP can get between your product and its users.
+                        </p>
+                    </div>
+                    <!--/.Panel-->
+
+                </div>
+                <!-- /.Grid column -->
+
+                <!-- Grid column -->
+                <div class="col-md-4 mb-5 text-center">
+
+                    <!--Panel-->
+                    <div class="text-left">
+                        <p class="feature-title title font-weight-bold dark-grey-text text-uppercase spacing mt-4 mx-4">
+                            <i class="fa fa-square green-text mr-2" aria-hidden="true"></i>
+                            <strong>App-Like</strong>
+                        </p>
+                        <p class="grey-text font-small mx-4">Look and feel like mobile apps, capable of performing many native application functions and boosting user engagement over traditional websites.
+                        </p>
+                    </div>
+                    <!--/.Panel-->
+
+                </div>
+                <!-- /.Grid column -->
+
+            </div>
+            <!-- /.Grid row -->
+
+            <!-- Grid row -->
+            <div class="row wow fadeIn" data-wow-delay="0.4s">
+
+                <!-- Grid column -->
+                <div class="col-md-4 mb-5 text-center">
+
+                    <!--Panel-->
+                    <div class="text-left">
+                        <p class="feature-title title font-weight-bold dark-grey-text text-uppercase spacing mt-4 mx-4">
+                            <i class="fa fa-square green-text mr-2" aria-hidden="true"></i>
+                            <strong>Re-Engageable</strong>
+                        </p>
+                        <p class="grey-text font-small mx-4">Can use Push Notifications so you can send alerts directly to your users without needing to clog up their email inbox or have your messages end up in junk-mail.
+                        </p>
+                    </div>
+                    <!--/.Panel-->
+
+                </div>
+                <!-- /Grid column -->
+
+                <!-- Grid column -->
+                <div class="col-md-4 mb-5 text-center">
+
+                    <!--Panel-->
+                    <div class="text-left">
+                        <p class="feature-title title font-weight-bold dark-grey-text text-uppercase spacing mt-4 mx-4">
+                            <i class="fa fa-square green-text mr-2" aria-hidden="true"></i>
+                            <strong>Safe</strong>
+                        </p>
+                        <p class="grey-text font-small mx-4">Every project and product is served over the TLS cryptographic protocol, making them the most secure type of websites around, perfect for e-commerce and sensitive data exchange.
+                        </p>
+                    </div>
+                    <!--/.Panel-->
+
+                </div>
+                <!-- /.Grid column -->
+
+                <!-- Grid column -->
+                <div class="col-md-4 mb-5 text-center">
+
+                    <!--Panel-->
+                    <div class="text-left">
+                        <p class="feature-title title font-weight-bold dark-grey-text text-uppercase spacing mt-4 mx-4">
+                            <i class="fa fa-square green-text mr-2" aria-hidden="true"></i>
+                            <strong>Discoverable</strong>
+                        </p>
+                        <p class="grey-text font-small mx-4">Identifiable on your phone as a local application, while also being accessible via popular search engines like Google—a major advantage over native mobile apps and standard websites in terms of accessibility and SEO.
+                        </p>
+                    </div>
+                    <!--/.Panel-->
+
+                </div>
+                <!-- /.Grid column -->
+
+            </div>
+            <!-- /.Grid row -->
+
+        </section>
+        <!--/Section: Services-->
+
+    </div>
+</div>
+<!--Second container-->
+
 
 <div class="container">
     <!--Section: Contact v.3-->
     <section class="section pb-2 contactsection">
 
-            <!--Grid row-->
-            <div class="row">
+        <!--Grid row-->
+        <div class="row">
 
-                <!--Grid column-->
-                <div class="col-md-12">
+            <!--Grid column-->
+            <div class="col-md-12">
 
-                    <!--Form with header-->
-                    <div class="card">
-                        <div class="row">
-                            <div class="col-lg-12">
-                                <div class="card-body form">
-                                    <!--Header-->
-                                    <div class="formHeader mb-1 pt-3 text-center">
-                                        <h3 class="display-4"><i class="fa fa-envelope"></i> Let's Start Building That Solution</h3>
-                                    </div>
-
-                                    <br>
-
-                                    <form id ="contact-form" name="contact-form" onsubmit="return validateForm()">
-                                        <!--Grid row-->
-                                        <div class="row">
-
-                                            <!--Grid column-->
-                                            <div class="col-md-6">
-                                                <div class="md-form">
-                                                    <div class="md-form">
-                                                        <input type="text" id="name" name="name" class="form-control">
-                                                        <label for="name" class="">Your name</label>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <!--Grid column-->
-
-                                            <!--Grid column-->
-                                            <div class="col-md-6">
-                                                <div class="md-form">
-                                                    <div class="md-form">
-                                                        <input type="text" id="email" name="email" class="form-control">
-                                                        <label for="email" class="">Your email</label>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <!--Grid column-->
-
-                                        </div>
-                                        <!--Grid row-->
-
-                                        <!--Grid row-->
-                                        <div class="row">
-
-                                            <!--Grid column-->
-                                            <div class="col-md-6">
-                                                <div class="md-form">
-                                                    <div class="md-form">
-                                                        <input type="text" id="phone" name="phone" class="form-control">
-                                                        <label for="phone" class="">Your phone</label>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <!--Grid column-->
-
-                                            <!--Grid column-->
-                                            <div class="col-md-6">
-                                                <div class="md-form">
-                                                    <div class="md-form">
-                                                        <input type="text" id="company" name="company" class="form-control">
-                                                        <label for="company" class="">Your company</label>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <!--Grid column-->
-
-                                        </div>
-                                        <!--Grid row-->
-
-                                        <!--Grid row-->
-                                        <div class="row">
-
-                                            <!--Grid column-->
-                                            <div class="col-md-12">
-                                                <div class="md-form">
-                                                    <div class="md-form">
-                                                        <input type="text" id="subject" name="subject" class="form-control">
-                                                        <label for="subject" class="">Subject</label>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <!--Grid column-->
-    
-                                        </div>
-                                        <!--Grid row-->
-
-                                        <!--Grid row-->
-                                        <div class="row">
-
-                                            <!--Grid column-->
-                                            <div class="col-md-12">
-
-                                                <div class="md-form">
-                                                    <textarea type="text" id="message" name="message" class="md-textarea"></textarea>
-                                                    <label for="message">Your message</label>
-                                                    <button type="submit" class="btn-floating btn-lg blue" onclick="validateform()"><i class="fas fa-paper-plane"></i></button>
-                                                </div>
-                                                <div class="status" id="status"></div>
-
-                                            </div>
-                                            <!--Grid column-->
-
-                                        </div>
-                                        <!--Grid row-->
-                                    </form>
-
+                <!--Form with header-->
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="card-body form">
+                                <!--Header-->
+                                <div class="formHeader mb-1 pt-3 text-center">
+                                    <h3 class="display-4"><i class="fa fa-envelope"></i> Let's Start Building That Solution</h3>
                                 </div>
+
+                                <br>
+
+                                <form id ="contact-form" name="contact-form" onsubmit="return validateForm()">
+                                    <!--Grid row-->
+                                    <div class="row">
+
+                                        <!--Grid column-->
+                                        <div class="col-md-6">
+                                            <div class="md-form">
+                                                <div class="md-form">
+                                                    <input type="text" id="name" name="name" class="form-control">
+                                                    <label for="name" class="">Your name</label>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <!--Grid column-->
+
+                                        <!--Grid column-->
+                                        <div class="col-md-6">
+                                            <div class="md-form">
+                                                <div class="md-form">
+                                                    <input type="text" id="email" name="email" class="form-control">
+                                                    <label for="email" class="">Your email</label>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <!--Grid column-->
+
+                                    </div>
+                                    <!--Grid row-->
+
+                                    <!--Grid row-->
+                                    <div class="row">
+
+                                        <!--Grid column-->
+                                        <div class="col-md-6">
+                                            <div class="md-form">
+                                                <div class="md-form">
+                                                    <input type="text" id="phone" name="phone" class="form-control">
+                                                    <label for="phone" class="">Your phone</label>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <!--Grid column-->
+
+                                        <!--Grid column-->
+                                        <div class="col-md-6">
+                                            <div class="md-form">
+                                                <div class="md-form">
+                                                    <input type="text" id="company" name="company" class="form-control">
+                                                    <label for="company" class="">Your company</label>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <!--Grid column-->
+
+                                    </div>
+                                    <!--Grid row-->
+
+                                    <!--Grid row-->
+                                    <div class="row">
+
+                                        <!--Grid column-->
+                                        <div class="col-md-12">
+                                            <div class="md-form">
+                                                <div class="md-form">
+                                                    <input type="text" id="subject" name="subject" class="form-control">
+                                                    <label for="subject" class="">Subject</label>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <!--Grid column-->
+
+                                    </div>
+                                    <!--Grid row-->
+
+                                    <!--Grid row-->
+                                    <div class="row">
+
+                                        <!--Grid column-->
+                                        <div class="col-md-12">
+
+                                            <div class="md-form">
+                                                <textarea type="text" id="message" name="message" class="md-textarea"></textarea>
+                                                <label for="message">Your message</label>
+                                                <button type="submit" class="btn-floating btn-lg blue" onclick="validateform()"><i class="fas fa-paper-plane"></i></button>
+                                            </div>
+                                            <div class="status" id="status"></div>
+
+                                        </div>
+                                        <!--Grid column-->
+
+                                    </div>
+                                    <!--Grid row-->
+                                </form>
+
                             </div>
+                        </div>
 
-                        </div>       
-                    </div>
-                    <!--/Form with header-->
-
-                </div>
-                <!--Grid column-->
+                    </div>       
+                <!--/Form with header-->
 
             </div>
-            <!--Grid row-->
+            <!--Grid column-->
 
-        </section>
-        <!--Section: Contact v.3-->
+        </div>
+        <!--Grid row-->
+
+    </section>
+    <!--Section: Contact v.3-->
 </div>
+</main>
 
 <!--Footer-->
 <footer class="page-footer center-on-small-only mt-5">
@@ -421,6 +457,7 @@
             <!--/First column-->
         </div>
         <!--/Grid row-->
+        
         <!--Grid row-->
         <div class="row mb-3">
             <!--First column-->
@@ -428,7 +465,7 @@
                 <ul class="list-unstyled d-flex justify-content-center mb-0 py-4">
                     <li class="px-5"><i class="fa fa-map-marker fa-lg"></i> Corinth, Gros-Islet, St. Lucia</li>
                     <li class="px-5"><a href="tel:+17582877459"><i class="fa fa-phone fa-lg"></i> +1-758-287-7459</a></li>
-                    <li class="px-5"><a href="mailto:remy.e.francis@gmail.com"><i class="fa fa-envelope fa-lg"></i> remy.e.francis@gmail.com</a></li>
+                    <li class="px-5"><a href="mailto:developer@remyfrancis.com"><i class="fa fa-envelope fa-lg"></i> developer@remyfrancis.com</a></li>
                 </ul>
             </div>
             <!--/First column-->
@@ -440,7 +477,7 @@
     <!--Copyright-->
     <div class="footer-copyright">
         <div class="container-fluid">
-            © 2018 Copyright: <a href="https://www.remyfrancis.com"> Remy Francis </a>
+            © 2018 Copyright: <a href="https://www.remyfrancis.com"> Remy Francis Web Development </a>
 
         </div>
     </div>
